@@ -1,3 +1,3 @@
 name = ("Harry")
 
-print ("Name" + [0])
+print ("Name") + ([0])
