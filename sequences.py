@@ -1,3 +1,3 @@
-name = ("Harry")
+names = ("Hey", "What?", "But.")
 
-print ("Name") + ([0])
+print(names[1])
