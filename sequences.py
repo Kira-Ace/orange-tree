@@ -1,3 +1,4 @@
-names = ("Hey", "What?", "But.")
+Xcoord = 10.0
+Ycoord = 15.0
 
-print(names[1])
+XndYcoord = (10.0, 15.0)
